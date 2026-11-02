@@ -1,0 +1,2 @@
+## We adjusted the decision threshold from 0.5 to 0.33 to prioritize detecting diabetes cases. This increased Recall from 41.4% to 77.4%, meaning the model identified a larger proportion of actual diabetes cases. However, Accuracy decreased from 82.2% to 67.8%, and Precision decreased from 37.5% to 27%. This demonstrates the trade-off between detecting more positive cases and generating more false positives.
+
